@@ -3,4 +3,4 @@
 # Week-1 Assignment3 https://github.com/2203A51540/AIML2024/blob/main/2203A51540_A1_Task3.ipynb
 # Week-2 Assignment1 https://github.com/2203A51540/AIML2024/blob/main/2203A51540_A2.ipynb
 # Week-3 Assignment1 https://github.com/2203A51540/AIML2024/blob/main/Week_3_ASS(2203A51540).ipynb
-# ML Assignment 6 
+# ML Assignment 6 https://github.com/2203A51540/AIML2024/blob/main/ML6_2203A51540.ipynb
