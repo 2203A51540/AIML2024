@@ -6,3 +6,5 @@
 # ML Assignment 6 https://github.com/2203A51540/AIML2024/blob/main/ML6_2203A51540.ipynb
 # ML Assignment 4 https://github.com/2203A51540/AIML2024/blob/main/1540ML_AS4.ipynb
 # ML Assignment 3 https://github.com/2203A51540/AIML2024/blob/main/2203A51540_A6.ipynb
+# ML Assignment 2 https://github.com/2203A51540/AIML2024/blob/main/2203A51540_ML2.ipynb
+# ML Assignment 5 
